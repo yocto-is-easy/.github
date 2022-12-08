@@ -13,6 +13,8 @@ Hi! That is my pet project, the goal of which to learn how Yocto works and what 
 
 ### Build
 
+> :warning: The developer may work after 6 p.m. by Kyiv until midight. So, the sources may be not buildable during development process.
+
 1. Get sources
 
 We are using repo tool to manage all the yocto sources. As for the custom modules, they are placed on github and has been downloading during the Yocto build process.
