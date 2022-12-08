@@ -9,7 +9,7 @@ Hi! That is my pet project, the goal of which to learn how Yocto works and what 
 - [x] Util to observe other services' state
 - [x] Support of DS18B20 temperature sensor
 - [x] Remote test execution
-- [ ] Logging service with ring buffer
+- [x] Logging service with ring buffer
 
 ### Build
 
