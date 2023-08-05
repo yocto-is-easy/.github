@@ -10,6 +10,9 @@ Hi! That is my pet project, the goal of which to learn how Yocto works and what 
 - [x] Support of DS18B20 temperature sensor
 - [x] Remote test execution
 - [x] Logging service with ring buffer
+- [ ] Support of plugin manager
+- [ ] Wifi service support
+- [ ] Support of initializing smart devices(ESP32)
 
 ### Build
 
