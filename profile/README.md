@@ -12,7 +12,7 @@ Hi! That is my pet project, the goal of which to learn how Yocto works and what 
 - [x] Logging service with ring buffer
 - [x] Support of plugin manager
 - [x] Wifi service support
-- [ ] Support of initializing smart devices over serial(ESP32)
+- [x] Support of initializing smart devices over serial(ESP32)
 
 ### Build
 
