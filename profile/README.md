@@ -1,5 +1,7 @@
 # Yocto is easy
 
+By Mykhailo Didur
+
 Hi! That is my pet project, the goal of which to learn how Yocto works and what can I do with it.
 
 ### Provided features
